@@ -1,0 +1,47 @@
+.parqawy{
+font-size: 100px;
+text-align: center;
+background-color: rgb(17, 17, 53);
+text-shadow: 10px 10px rgb(45, 0, 0);
+padding-bottom: 13px;
+border-radius: 20px;
+color: rgb(119, 0, 0);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+background-image: linear-gradient(to left, yellow ,rgb(255, 98, 0),red);
+margin: 10px;
+
+}
+h2{
+text-align: left;
+background: rgb(0, 0, 0) ;
+color: rgb(28, 128, 0);
+width: 430px;
+border-radius: 10px;
+font-size:40px;
+
+
+}
+h3{
+background-color: white;
+text-align: center;
+border: solid white;
+background-image: url(zekola.jpg);
+background-repeat:no-repeat ;
+font-size: 50px;
+height: 400px;
+background-position-x: center;
+background-position-y: 70px;
+
+}
+a{
+
+font-size: 40px;
+border-radius: 9px;
+padding-left: 35%;
+
+}
+
+
+
